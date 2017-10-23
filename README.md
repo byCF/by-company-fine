@@ -1,2 +1,2 @@
-# by-company-fine
+# By Company Fine
 Website
