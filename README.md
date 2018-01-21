@@ -1,3 +1,3 @@
 # By Company Fine
 
-bycf.cf
+[bycf.cf]()
